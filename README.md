@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
+HEAD
 Below is a GIF of the app running on my iPhone. Additionally, there are screenshots of the app layout on different screen sizes.
 
 iPhone 12 Pro Max
@@ -40,3 +41,7 @@ iPod touch - 7th generation
 <br>
 ### Notes
 Describe any challenges encountered while building the app.
+
+### Notes
+Learning to use Auto Layout took more time than expected, but it was doable.
+
