@@ -16,10 +16,14 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 Required User Stories:
-<img src="https://i.imgur.com/tbTX7TD.gif" width=250><br>
+<br>
+<center><img src="https://i.imgur.com/tbTX7TD.gif" width=250></center>
+<br>
 
 Bonus User Stories:
-<img src="https://i.imgur.com/OoKrX55.gif" width=250><br>
+<br>
+<center><img src="https://i.imgur.com/OoKrX55.gif" width=250></center>
+<br>
 
 ### Notes
 I had trouble making the network call because I was doing so in prepare(for segue).
