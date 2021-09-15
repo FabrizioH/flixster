@@ -9,7 +9,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -38,9 +37,7 @@ iPod touch - 7th generation
 <img src="https://i.imgur.com/EylNp5M.jpg" width=250>
 <img src="https://i.imgur.com/lZn4IYd.png" width=250></center>
 <br>
-### Notes
-Describe any challenges encountered while building the app.
 
 ### Notes
-Learning to use Auto Layout took more time than expected, but it was doable.
+Learning to use Auto Layout took more time than expected, but I think I did good enough.
 
